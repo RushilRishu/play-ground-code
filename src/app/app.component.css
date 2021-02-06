@@ -1,0 +1,31 @@
+.spaceX {
+    padding-left: 20px;;
+}
+
+.boxX {
+    border:2px solid  blue;
+    text-align: left;
+    background-color: lightblue;
+    color: black;
+}
+.w_20{
+    width: 20%;
+    float: left;
+}
+.w_80{
+    width: 80%;
+    float: left;
+}
+.centeralign{
+    text-align: center;
+}
+.json-style {
+    padding: 20px;
+    background-color: white;
+}
+.txt_center{
+    text-align: center;
+}
+.w_100{
+    width: 100%;
+}
